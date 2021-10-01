@@ -1,0 +1,13 @@
+D:\Tasks\FileSharing\FileSharing\bin\Debug\FileSharing.exe.config
+D:\Tasks\FileSharing\FileSharing\bin\Debug\FileSharing.exe
+D:\Tasks\FileSharing\FileSharing\bin\Debug\FileSharing.pdb
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.csprojAssemblyReference.cache
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.Properties.Resources.resources
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.csproj.GenerateResource.cache
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.csproj.CoreCompileInputs.cache
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.exe
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.pdb
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.Mainform.resources
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.AddForm.resources
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.RankingForm.resources
+D:\Tasks\FileSharing\FileSharing\obj\Debug\FileSharing.LoginForm.resources
