@@ -41,5 +41,10 @@ namespace FileSharing
             LoginForm login = new LoginForm();
             login.ShowDialog();
         }
+
+        private void Searchtext_Edit_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

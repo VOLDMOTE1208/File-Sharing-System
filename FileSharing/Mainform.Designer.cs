@@ -43,7 +43,7 @@
             this.toolStripLabel2 = new System.Windows.Forms.ToolStripLabel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button3 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.searchtext_Edit = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -174,7 +174,7 @@
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.Window;
             this.panel1.Controls.Add(this.button3);
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.searchtext_Edit);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -195,13 +195,14 @@
             this.button3.TabIndex = 3;
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // textBox1
+            // searchtext_Edit
             // 
-            this.textBox1.Location = new System.Drawing.Point(728, 14);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(230, 30);
-            this.textBox1.TabIndex = 2;
+            this.searchtext_Edit.Location = new System.Drawing.Point(728, 14);
+            this.searchtext_Edit.Multiline = true;
+            this.searchtext_Edit.Name = "searchtext_Edit";
+            this.searchtext_Edit.Size = new System.Drawing.Size(230, 30);
+            this.searchtext_Edit.TabIndex = 2;
+            this.searchtext_Edit.TextChanged += new System.EventHandler(this.Searchtext_Edit_TextChanged);
             // 
             // button2
             // 
@@ -299,7 +300,7 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.ListView DownloadList;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox searchtext_Edit;
     }
 }
 
